@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Vyshkat.Cli/Vyshkat.Cli.csproj" />
+    <Project Path="src/Vyshkat.Core/Vyshkat.Core.csproj" />
+  </Folder>
+</Solution>
